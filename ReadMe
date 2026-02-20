@@ -4,12 +4,13 @@ The Book_Printing_Assignment And Hotel_Bill_Assignment Consist of creation of da
 Which we further use by SQL Connectivity.
 
 The content in this repo:-
-1. Project - Hotel as well as Book bill printing using Sql connectivity.
+
+1. Assignment - it includes the 50+ questions assigned. 
 2. Lamda Functions. 
 3. List Comprehension.
-4 Q13 - it has the 13th question from the assignment using methods like 
+4. Project_1 - Hotel as well as Book bill printing using Sql connectivity.
+5. Project_2 - it has the 13th question from the assignment using methods like 
   - OPPS
   - Class
   - Dict
   - Try/Except
-5. assignment - it includes the 50+ questions assigned
